@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot>After a global war, the seaside kingdom known as the Valley of the Wind remains one of the last strongholds on Earth untouched by a poisonous jungle and the powerful insects that guard it. Led by the courageous Princess Nausicaä, the people of the Valley engage in an epic struggle to restore the bond between humanity and Earth.</plot>
+  <lockdata>false</lockdata>
+  <dateadded>2023-09-22 11:14:38</dateadded>
+  <title>Nausicaä of the Valley of the Wind</title>
+  <originaltitle>風の谷のナウシカ</originaltitle>
+  <director>Hayao Miyazaki</director>
+  <writer>Hayao Miyazaki</writer>
+  <credits>Hayao Miyazaki</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9O-JGh4e2Mk</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=6zhLBe319KE</trailer>
+  <rating>7.928</rating>
+  <year>1984</year>
+  <sorttitle>02 Ghibli</sorttitle>
+  <mpaa>GB-PG</mpaa>
+  <imdbid>tt0087544</imdbid>
+  <tmdbid>81</tmdbid>
+  <premiered>1984-03-11</premiered>
+  <releasedate>1984-03-11</releasedate>
+  <criticrating>90</criticrating>
+  <runtime>117</runtime>
+  <tagline>A young girl's love called forth miracles…</tagline>
+  <country>Japan</country>
+  <genre>Adventure</genre>
+  <genre>Animation</genre>
+  <genre>Fantasy</genre>
+  <studio>Topcraft</studio>
+  <tag>saving the world</tag>
+  <tag>human vs nature</tag>
+  <tag>fungus spores   </tag>
+  <tag>future</tag>
+  <tag>airplane</tag>
+  <tag>post-apocalyptic future</tag>
+  <tag>giant insect</tag>
+  <tag>toxic</tag>
+  <tag>based on manga</tag>
+  <tag>ecology</tag>
+  <tag>anime</tag>
+  <art>
+    <poster>N:\video\Anime\Studio Ghibli\(02) Nausicaä of the Valley of the Wind (1984) [imdbid-tt0087544]\cover.jpg</poster>
+    <fanart>C:\ProgramData\Jellyfin\Server\metadata\library\b8\b85a6249119c98846a0f070174142605\backdrop.jpg</fanart>
+  </art>
+  <actor>
+    <name>Sumi Shimamoto</name>
+    <role>Nausicaä (voice)</role>
+    <type>Actor</type>
+    <sortorder>0</sortorder>
+    <thumb>C:\ProgramData\Jellyfin\Server\metadata\People\S\Sumi Shimamoto\folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ichiro Nagai</name>
+    <role>Mito (voice)</role>
+    <type>Actor</type>
+    <sortorder>1</sortorder>
+    <thumb>C:\ProgramData\Jellyfin\Server\metadata\People\I\Ichiro Nagai\folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Gorō Naya</name>
+    <role>Yupa (voice)</role>
+    <type>Actor</type>
+    <sortorder>2</sortorder>
+    <thumb>C:\ProgramData\Jellyfin\Server\metadata\People\G\Gorō Naya\folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Youji Matsuda</name>
+    <role>Asbel (voice)</role>
+    <type>Actor</type>
+    <sortorder>3</sortorder>
+    <thumb>C:\ProgramData\Jellyfin\Server\metadata\People\Y\Youji Matsuda\folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yoshiko Sakakibara</name>
+    <role>Kushana (voice)</role>
+    <type>Actor</type>
+    <sortorder>4</sortorder>
+    <thumb>C:\ProgramData\Jellyfin\Server\metadata\People\Y\Yoshiko Sakakibara\folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Iemasa Kayumi</name>
+    <role>Kurotowa (voice)</role>
+    <type>Actor</type>
+    <sortorder>5</sortorder>
+    <thumb>C:\ProgramData\Jellyfin\Server\metadata\People\I\Iemasa Kayumi\folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hisako Kyoda</name>
+    <role>Obaba (voice)</role>
+    <type>Actor</type>
+    <sortorder>6</sortorder>
+    <thumb>C:\ProgramData\Jellyfin\Server\metadata\People\H\Hisako Kyoda\folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mahito Tsujimura</name>
+    <role>Jihl (voice)</role>
+    <type>Actor</type>
+    <sortorder>7</sortorder>
+    <thumb>C:\ProgramData\Jellyfin\Server\metadata\People\M\Mahito Tsujimura\folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mina Tominaga</name>
+    <role>Lastel (voice)</role>
+    <type>Actor</type>
+    <sortorder>8</sortorder>
+    <thumb>C:\ProgramData\Jellyfin\Server\metadata\People\M\Mina Tominaga\folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kōhei Miyauchi</name>
+    <role>Gol (voice)</role>
+    <type>Actor</type>
+    <sortorder>9</sortorder>
+    <thumb>C:\ProgramData\Jellyfin\Server\metadata\People\K\Kōhei Miyauchi\folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Joji Yanami</name>
+    <role>Gikkuri (voice)</role>
+    <type>Actor</type>
+    <sortorder>10</sortorder>
+    <thumb>C:\ProgramData\Jellyfin\Server\metadata\People\J\Joji Yanami\folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Minoru Yada</name>
+    <role>Niga (voice)</role>
+    <type>Actor</type>
+    <sortorder>11</sortorder>
+    <thumb>C:\ProgramData\Jellyfin\Server\metadata\People\M\Minoru Yada\folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Rihoko Yoshida</name>
+    <role>Toeto / Girl C (voice)</role>
+    <type>Actor</type>
+    <sortorder>12</sortorder>
+    <thumb>C:\ProgramData\Jellyfin\Server\metadata\People\R\Rihoko Yoshida\folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Tetsuo Mizutori</name>
+    <role>Commando (voice)</role>
+    <type>Actor</type>
+    <sortorder>13</sortorder>
+  </actor>
+  <actor>
+    <name>Masako Sugaya</name>
+    <role>Girl A (voice)</role>
+    <type>Actor</type>
+    <sortorder>14</sortorder>
+  </actor>
+  <actor>
+    <name>Isao Takahata</name>
+    <role>Producer</role>
+    <type>Producer</type>
+    <thumb>C:\ProgramData\Jellyfin\Server\metadata\People\I\Isao Takahata\folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Toshio Suzuki</name>
+    <role>Producer</role>
+    <type>Producer</type>
+    <thumb>C:\ProgramData\Jellyfin\Server\metadata\People\T\Toshio Suzuki\folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yasuyoshi Tokuma</name>
+    <role>Executive Producer</role>
+    <type>Producer</type>
+    <thumb>C:\ProgramData\Jellyfin\Server\metadata\People\Y\Yasuyoshi Tokuma\folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Tooru Hara</name>
+    <role>Executive Producer</role>
+    <type>Producer</type>
+  </actor>
+  <actor>
+    <name>Hiroshi Morie</name>
+    <role>Associate Producer</role>
+    <type>Producer</type>
+    <thumb>C:\ProgramData\Jellyfin\Server\metadata\People\H\Hiroshi Morie\folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Michio Kondou</name>
+    <role>Executive Producer</role>
+    <type>Producer</type>
+  </actor>
+  <id>tt0087544</id>
+  <fileinfo>
+    <streamdetails>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9075282</bitrate>
+        <width>1920</width>
+        <height>1040</height>
+        <aspect>1.85:1</aspect>
+        <aspectratio>1.85:1</aspectratio>
+        <framerate>23.976027</framerate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>117</duration>
+        <durationinseconds>7022</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>139636</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>139636</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>
