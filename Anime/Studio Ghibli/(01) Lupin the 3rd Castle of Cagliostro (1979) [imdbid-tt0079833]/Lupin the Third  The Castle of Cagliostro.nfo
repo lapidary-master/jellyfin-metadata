@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot>After a successful robbery leaves famed thief Lupin the Third and his partner Jigen with nothing but a large amount of expertly crafted counterfeit bills, he decides to track down the forgers responsible—and steal any other treasures he may find in the Castle of Cagliostro, including the 'damsel in distress' he finds imprisoned there.</plot>
+  <lockdata>false</lockdata>
+  <dateadded>2023-09-22 01:03:40</dateadded>
+  <title>Lupin the Third: The Castle of Cagliostro</title>
+  <originaltitle>ルパン三世 カリオストロの城</originaltitle>
+  <director>Hayao Miyazaki</director>
+  <writer>Hayao Miyazaki</writer>
+  <writer>Maurice Leblanc</writer>
+  <writer>Haruya Yamazaki</writer>
+  <writer>Kazuhiko Kato</writer>
+  <credits>Hayao Miyazaki</credits>
+  <credits>Maurice Leblanc</credits>
+  <credits>Haruya Yamazaki</credits>
+  <credits>Kazuhiko Kato</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=pApT81VLdX0</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=wJudurbkv1E</trailer>
+  <rating>7.5</rating>
+  <year>1979</year>
+  <sorttitle>01 Ghibli</sorttitle>
+  <mpaa>GB-PG</mpaa>
+  <imdbid>tt0079833</imdbid>
+  <tmdbid>15371</tmdbid>
+  <premiered>1979-12-15</premiered>
+  <releasedate>1979-12-15</releasedate>
+  <criticrating>95</criticrating>
+  <runtime>100</runtime>
+  <tagline>Believe in the Thief.</tagline>
+  <country>Japan</country>
+  <genre>Family</genre>
+  <genre>Animation</genre>
+  <genre>Adventure</genre>
+  <genre>Comedy</genre>
+  <genre>Crime</genre>
+  <studio>Tokyo Movie Shinsha</studio>
+  <tag>clock tower</tag>
+  <tag>casino</tag>
+  <tag>treasure</tag>
+  <tag>samurai</tag>
+  <tag>castle</tag>
+  <tag>count</tag>
+  <tag>based on comic</tag>
+  <tag>thief</tag>
+  <tag>counterfeit</tag>
+  <tag>based on manga</tag>
+  <tag>counterfeit money</tag>
+  <tag>anime</tag>
+  <art>
+    <poster>N:\video\Anime\Studio Ghibli\(01) Lupin the 3rd Castle of Cagliostro (1979) [imdbid-tt0079833]\cover.jpg</poster>
+    <fanart>C:\ProgramData\Jellyfin\Server\metadata\library\4a\4a05b4d164cbbebedc56f0b911082657\backdrop.jpg</fanart>
+  </art>
+  <actor>
+    <name>Yasuo Yamada</name>
+    <role>Arsène Lupin III (voice)</role>
+    <type>Actor</type>
+    <sortorder>0</sortorder>
+    <thumb>C:\ProgramData\Jellyfin\Server\metadata\People\Y\Yasuo Yamada\folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kiyoshi Kobayashi</name>
+    <role>Daisuke Jigen (voice)</role>
+    <type>Actor</type>
+    <sortorder>1</sortorder>
+    <thumb>C:\ProgramData\Jellyfin\Server\metadata\People\K\Kiyoshi Kobayashi\folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Eiko Masuyama</name>
+    <role>Fujiko Mine (voice)</role>
+    <type>Actor</type>
+    <sortorder>2</sortorder>
+    <thumb>C:\ProgramData\Jellyfin\Server\metadata\People\E\Eiko Masuyama\folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Makio Inoue</name>
+    <role>Goemon Ishikawa XIII (voice)</role>
+    <type>Actor</type>
+    <sortorder>3</sortorder>
+    <thumb>C:\ProgramData\Jellyfin\Server\metadata\People\M\Makio Inoue\folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Gorō Naya</name>
+    <role>Inspector Koichi Zenigata (voice)</role>
+    <type>Actor</type>
+    <sortorder>4</sortorder>
+    <thumb>C:\ProgramData\Jellyfin\Server\metadata\People\G\Gorō Naya\folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Sumi Shimamoto</name>
+    <role>Lady Clarisse de Cagliostro (voice)</role>
+    <type>Actor</type>
+    <sortorder>5</sortorder>
+    <thumb>C:\ProgramData\Jellyfin\Server\metadata\People\S\Sumi Shimamoto\folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Tarō Ishida</name>
+    <role>Count Cagliostro (voice)</role>
+    <type>Actor</type>
+    <sortorder>6</sortorder>
+    <thumb>C:\ProgramData\Jellyfin\Server\metadata\People\T\Tarō Ishida\folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kōhei Miyauchi</name>
+    <role>Gardener (voice)</role>
+    <type>Actor</type>
+    <sortorder>7</sortorder>
+    <thumb>C:\ProgramData\Jellyfin\Server\metadata\People\K\Kōhei Miyauchi\folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ichiro Nagai</name>
+    <role>Jodo (voice)</role>
+    <type>Actor</type>
+    <sortorder>8</sortorder>
+    <thumb>C:\ProgramData\Jellyfin\Server\metadata\People\I\Ichiro Nagai\folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Tadamichi Tsuneizumi</name>
+    <role>Gustav (voice)</role>
+    <type>Actor</type>
+    <sortorder>9</sortorder>
+  </actor>
+  <actor>
+    <name>Kinpei Azusa</name>
+    <role>Archbishop (voice)</role>
+    <type>Actor</type>
+    <sortorder>10</sortorder>
+    <thumb>C:\ProgramData\Jellyfin\Server\metadata\People\K\Kinpei Azusa\folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Eken Mine</name>
+    <role>Archbishop's Driver (voice)</role>
+    <type>Actor</type>
+    <sortorder>11</sortorder>
+    <thumb>C:\ProgramData\Jellyfin\Server\metadata\People\E\Eken Mine\folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Shozo Hirabayashi</name>
+    <role>Interpol Chief (voice)</role>
+    <type>Actor</type>
+    <sortorder>12</sortorder>
+  </actor>
+  <actor>
+    <name>Minoru Midorikawa</name>
+    <role>Servant (voice)</role>
+    <type>Actor</type>
+    <sortorder>13</sortorder>
+  </actor>
+  <actor>
+    <name>Mikio Terashima</name>
+    <role>German Delegate (voice)</role>
+    <type>Actor</type>
+    <sortorder>14</sortorder>
+    <thumb>C:\ProgramData\Jellyfin\Server\metadata\People\M\Mikio Terashima\folder.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Tetsuo Katayama</name>
+    <role>Producer</role>
+    <type>Producer</type>
+  </actor>
+  <actor>
+    <name>Yutaka Fujioka</name>
+    <role>Executive Producer</role>
+    <type>Producer</type>
+    <thumb>C:\ProgramData\Jellyfin\Server\metadata\People\Y\Yutaka Fujioka\folder.jpg</thumb>
+  </actor>
+  <id>tt0079833</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>6327285</bitrate>
+        <width>1920</width>
+        <height>1040</height>
+        <aspect>1.85:1</aspect>
+        <aspectratio>1.85:1</aspectratio>
+        <framerate>23.97603</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>99</duration>
+        <durationinseconds>5970</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>128240</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>128427</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <data>
+        <codec>bin_data</codec>
+        <micodec>bin_data</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </data>
+    </streamdetails>
+  </fileinfo>
+</movie>
